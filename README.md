@@ -1,4 +1,6 @@
 # Real-Estate-Management-System
+# Live URL 
+`https://property-sell.vercel.app/` <br>
 # Overview
 The Real Estate Management System is a web-based application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) to facilitate the buying, selling, and renting of properties. It provides a user-friendly interface for both property managers and clients.
 
@@ -16,6 +18,3 @@ Express.js: Web framework for building RESTful APIs <br>
 React.js: Front-end library for building user interfaces <br>
 Node.js: JavaScript runtime for server-side programming <br>
 
-# Installation
-Clone the repository: <br>
-`git clone https://github.com/yourusername/real-estate-management.git`
