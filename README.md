@@ -15,3 +15,7 @@ MongoDB: NoSQL database for storing data <br>
 Express.js: Web framework for building RESTful APIs <br>
 React.js: Front-end library for building user interfaces <br>
 Node.js: JavaScript runtime for server-side programming <br>
+
+# Installation
+Clone the repository: <br>
+`git clone https://github.com/yourusername/real-estate-management.git`
