@@ -4,14 +4,14 @@ The Real Estate Management System is a web-based application built using the MER
 
 # Features
 User Authentication (Sign up/Login) <br>
-Property Listings (Add, Edit, Delete properties)
-Search and Filter properties
-User Profiles
-Contact forms for inquiries
-Admin Dashboard for managing listings and users
+Property Listings (Add, Edit, Delete properties) <br>
+Search and Filter properties <br>
+User Profiles <br>
+Contact forms for inquiries <br>
+Admin Dashboard for managing listings and users <br>
 
 # Technologies Used
-MongoDB: NoSQL database for storing data
-Express.js: Web framework for building RESTful APIs
-React.js: Front-end library for building user interfaces
-Node.js: JavaScript runtime for server-side programming
+MongoDB: NoSQL database for storing data <br>
+Express.js: Web framework for building RESTful APIs <br>
+React.js: Front-end library for building user interfaces <br>
+Node.js: JavaScript runtime for server-side programming <br>
